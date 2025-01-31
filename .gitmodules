@@ -1,0 +1,9 @@
+[submodule "Pands-Project"]
+	path = Pands-Project
+	url = https://github.com/MattiDoubleU/Pands-Project
+[submodule "pands-mywork"]
+	path = pands-mywork
+	url = https://github.com/MattiDoubleU/pands-mywork
+[submodule "pands-weekly-tasks"]
+	path = pands-weekly-tasks
+	url = https://github.com/MattiDoubleU/pands-weekly-tasks
